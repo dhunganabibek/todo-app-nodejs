@@ -1,0 +1,12 @@
+{
+    "name": "todo-app-nodejs",
+    "version": "1.0.0",
+    "description": "todo app using express, ejs and mongodb ",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Bibek Dhungana",
+    "license": "ISC"
+}
